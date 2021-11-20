@@ -68,7 +68,7 @@ function App() {
        <Message name="Alex"/>
        
          <form>
-         {/*упровляемый компонент*/}
+           {/* упровляемый компонент*/}
          <MyInput 
              // value={title}
              value={post.title}
