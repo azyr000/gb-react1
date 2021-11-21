@@ -1,15 +1,16 @@
 .App {
   text-align: center;
-  width: 800px;
+  width: 850px;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
- #root{
- display: flex;
- justify-content: center;}
+#root {
+  display: flex;
+  justify-content: center;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
